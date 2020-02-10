@@ -22,3 +22,18 @@
     text-align:center;
     margin:35px auto;
 }
+
+
+.container {
+    margin-top:75px;
+}
+
+.text-center {
+    padding-bottom:30px;
+}
+
+.indexphotos {
+    width: 500px;
+    height: 500px;
+    margin: 20px auto;
+}
