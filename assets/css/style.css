@@ -1,3 +1,4 @@
+
 #koala,
 #pooh,
 #sloth {
@@ -38,10 +39,14 @@
     margin: 20px auto;
 }
 
-.navbar-brand {
-    font-style: bold;
+.navbar-text {
+    font-weight: bolder;
 }
+/* .navbar-brand {
+    font-style: bold;
+} */
 
 body {
     font-family: 'Roboto Mono', monospace;
+    background-color: lightgrey;
 }
