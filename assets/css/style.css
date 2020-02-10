@@ -37,3 +37,11 @@
     height: 500px;
     margin: 20px auto;
 }
+
+.navbar-brand {
+    font-style: bold;
+}
+
+body {
+    font-family: 'Roboto Mono', monospace;
+}
