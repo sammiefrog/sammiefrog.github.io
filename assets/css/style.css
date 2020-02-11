@@ -13,6 +13,7 @@
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     text-align:center;
     padding:15px;
+    margin-bottom:25px;
 }
 
 .jumbotron {
@@ -42,11 +43,28 @@
 .navbar-text {
     font-weight: bolder;
 }
-/* .navbar-brand {
-    font-style: bold;
-} */
+
 
 body {
     font-family: 'Roboto Mono', monospace;
     background-color: lightgrey;
 }
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: whitesmoke;
+    color: black;
+    text-align: center;
+    padding-top:7px;
+    letter-spacing: 20px;
+  }
+
+  .smallfrog {
+      height:40px;
+      width:40px;
+      padding:5px;
+      margin-right: 15px;
+  }
