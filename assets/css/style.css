@@ -38,7 +38,7 @@
 .indexphotos {
     width: 500px;
     height: 500px;
-    margin: 20px auto;
+    margin: 50px auto;
 }
 
 .navbar-text {
@@ -62,7 +62,7 @@ footer {
   }
 
   h6 {
-      margin:10px;
+      margin:5px;
   }
 
   .smallfrog {
@@ -76,5 +76,9 @@ footer {
     #bigfrog {
         width:200px;
         height:200px;
+    }
+    .indexphotos {
+        width: 75%;
+        height: 75%;
     }
   }
