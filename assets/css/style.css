@@ -73,10 +73,7 @@ footer {
   }
 
   @media screen and (max-width: 991px) {
-    #bigfrog {
-        width:200px;
-        height:200px;
-    }
+
     .indexphotos {
         width: 75%;
         height: 75%;
