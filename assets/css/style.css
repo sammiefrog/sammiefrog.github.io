@@ -36,8 +36,8 @@
 }
 
 .indexphotos {
-    width: 500px;
-    height: 500px;
+    width: 550px;
+    height: 550px;
     margin: 50px auto;
 }
 
@@ -72,7 +72,7 @@ footer {
       margin-right: 15px;
   }
 
-  @media screen and (max-width: 991px) {
+  /* @media screen and (max-width: 991px) {
     #bigfrog {
         width:200px;
         height:200px;
@@ -81,4 +81,5 @@ footer {
         width: 75%;
         height: 75%;
     }
-  }
+
+  } */
