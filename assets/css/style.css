@@ -28,6 +28,7 @@
 
 .container {
     margin-top:75px;
+    margin-bottom:75px;
 }
 
 .text-center {
@@ -44,7 +45,6 @@
     font-weight: bolder;
 }
 
-
 body {
     font-family: 'Roboto Mono', monospace;
     background-color: lightgrey;
@@ -58,8 +58,11 @@ footer {
     background-color: whitesmoke;
     color: black;
     text-align: center;
-    padding-top:7px;
     letter-spacing: 20px;
+  }
+
+  h6 {
+      margin:10px;
   }
 
   .smallfrog {
@@ -69,4 +72,9 @@ footer {
       margin-right: 15px;
   }
 
-  @media
+  @media screen and (max-width: 991px) {
+    #bigfrog {
+        width:200px;
+        height:200px;
+    }
+  }
