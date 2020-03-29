@@ -1,4 +1,23 @@
-var sass = require('\assets\node_modules\sass.js');
-console.log(sass);
+var skillSection = $('#skills');
 
-$enable-gradients = true;
+var frontEnd = $('#front-end');
+var backEnd = $('#back-end');
+var other = $('#other');
+
+frontEnd.on('click', function(event) {
+    event.preventDefault();
+    console.log('heyhey');
+
+})
+
+backEnd.on('click', function(event) {
+    event.preventDefault();
+    console.log('heyhey');
+    
+})
+
+other.on('click', function(event) {
+    event.preventDefault();
+    console.log('heyhey');
+
+})

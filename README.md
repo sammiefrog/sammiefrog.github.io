@@ -27,7 +27,7 @@ www.getbootstrap.com
 
 ## Contact
 * #### Name: Sammantha Sasenick (@sammiefrog)
-* #### Email: [sammiefrog@live.com](sammiefrog@live.com)
+* #### Email: [ssasenick412@gmail.com](ssasenick412@gmail.com)
 * #### LinkedIn: www.linkedin.com/in/sammantha-sasenick412
 
 ## License
