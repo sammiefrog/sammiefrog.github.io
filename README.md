@@ -14,7 +14,7 @@ This is my working portfolio, created with bootstrap, that will be updated as I 
 
 ## Technology Stack
 
-HTML, CSS, Bootstrap
+HTML, CSS, Bootstrap, JQuery
 
 ## Usage
 

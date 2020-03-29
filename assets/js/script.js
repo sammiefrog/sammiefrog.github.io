@@ -43,11 +43,22 @@ function backEndSkills() {
 
 }
 function otherSkills() {
+    var otherSkillArray = [];
     var otherSkillCard = $('<div class="card bg-light">');
     var headingThree = $('<div class="card-header">');
+    // var listOther = $('<ul class="list-group list-group-flush">');
+
     headingThree.text('More To Come!')
     headingThree.appendTo(otherSkillCard);
+
+    // for(var i=0; i < backSkillArray.length; i++) {
+    //     var lineBack = $('<li class="list-group-item">');
+    //     lineBack.text(backSkillArray[i]);
+    //     lineBack.appendTo(listBack);
+    // }
+    
     otherSkillCard.appendTo(skillSection);
+
 }
 
 
