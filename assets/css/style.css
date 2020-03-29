@@ -15,6 +15,10 @@ body {
 .card {
     margin: 15px;
 }
+.projects {
+    width: 350px;
+    height: 300px;
+}
 /* .indexphotos {
     width: 450px;
     height: 450px;
