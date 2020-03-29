@@ -1,84 +1,22 @@
-
-/* these styles apply to all the pages, navbar, typography, container and cards */
-
 body {
-    font-family: 'Roboto Mono', monospace;
-    background-color: lightgrey;
+    background-color: moccasin;
+}
+.jumbotron {
+    margin: 20px;
 }
 
-.navbar-text {
-    font-weight: bolder;
+.my-photos {
+    width: 250px;
+    height: 250px;
 }
-
-.container {
-    margin-top:75px;
-    margin-bottom:75px;
+.projects-heading {
+    margin: 25px;
 }
-
 .card {
-    margin-top:25px;
+    margin: 15px;
 }
-
-.text-center {
-    padding-bottom:30px;
-}
-
-/* Styling for the portfolio page columns and typography */
-h3 {
-    padding: 25px;
-}
-
-#brain,
-#catplan,
-#weather,
-#monkey {
-    width:250px;
-    height:250px;
-    margin: 25px auto;
-}
-
-.col-md-4 {
-    background-color: white;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
-
-/* This is all the styling for the footer, text and image */
-h6 {
-    margin:5px;
-}
-
-.smallfrog {
-    height:30px;
-    width:30px;
-    padding:5px;
-    margin-right: 15px;
-}
-
-footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: whitesmoke;
-    color: black;
-    text-align: center;
-    letter-spacing: 20px;
-  }
-
-/* sizing and margin for the photos in the carousel on index page */
-.indexphotos {
-    width: 550px;
-    height: 550px;
-    margin: 50px auto;
-}
-
-/* media query for the index page carousel */
-
-  @media screen and (max-width: 991px) {
-
-    .indexphotos {
-        width: 75%;
-        height: 75%;
-    }
-
-  }
+/* .indexphotos {
+    width: 450px;
+    height: 450px;
+    margin: 10px auto;
+} */
