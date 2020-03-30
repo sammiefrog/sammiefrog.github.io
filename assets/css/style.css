@@ -1,4 +1,5 @@
 body {
+    font-family: 'Poppins', sans-serif;
     background-color: moccasin;
 }
 .jumbotron {
@@ -6,6 +7,8 @@ body {
 }
 
 .my-photos {
+    margin-left: 35px;
+    margin-right:35px;
     width: 250px;
     height: 250px;
 }
@@ -23,8 +26,14 @@ body {
     margin:30px;
 }
 .icons {
+    margin-bottom: 25px;
     width:75px;
     height: 75px;
+}
+.languages {
+    margin: 10px;
+    width: 100px;
+    height: 100px;
 }
 /* .indexphotos {
     width: 450px;
