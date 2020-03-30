@@ -22,6 +22,10 @@ body {
 .contact-head {
     margin:30px;
 }
+.icons {
+    width:75px;
+    height: 75px;
+}
 /* .indexphotos {
     width: 450px;
     height: 450px;
