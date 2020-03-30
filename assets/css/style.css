@@ -5,7 +5,9 @@ body {
 .jumbotron {
     margin: 20px;
 }
-
+.name {
+    font-size: 60px;
+}
 .my-photos {
     margin-left: 35px;
     margin-right:35px;
