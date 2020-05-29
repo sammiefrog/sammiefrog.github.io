@@ -110,27 +110,27 @@ $(window).on('load', function() {
 		window.open("https://github.com/sammiefrog/track-your-employees");
 	});
 
-		$(".view2").on("click", function (event) {
+	$(".view2").on("click", function (event) {
       event.preventDefault();
       window.open("https://github.com/sammiefrog/theHungryMonkey");
-		});
+	});
 	
-		$(".view3").on("click", function (event) {
+	$(".view3").on("click", function (event) {
       event.preventDefault();
       window.open("https://github.com/sammiefrog/eat-da-burger");
-		});
+	});
 	
-		$(".view4").on("click", function (event) {
+	$(".view4").on("click", function (event) {
       event.preventDefault();
       window.open("https://github.com/sammiefrog/rules");
-		});
+	});
 	
-		$(".view5").on("click", function (event) {
+	$(".view5").on("click", function (event) {
       event.preventDefault();
       window.open("https://github.com/sammiefrog/readme-generator");
-		});
+	});
 	
-		$(".view6").on("click", function (event) {
+	$(".view6").on("click", function (event) {
       event.preventDefault();
       window.open("https://github.com/sammiefrog/emp-template-generator");
     });
