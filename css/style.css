@@ -678,7 +678,7 @@ li, ul {
 	width: 100%;
 	top: 0;
 	left: 0;
-	background-image: url("../img/bg.jpg");
+	background-image: url("../img/images/coding1.jpeg");
 	background-position: center center;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
@@ -771,6 +771,7 @@ li, ul {
 	text-align: center;
 	height: 35px;
 	width: 35px;
+	/* color: #fff; */
 	margin: 0 5px;
 }
 .footer-section .social-links a i {
