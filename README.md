@@ -14,16 +14,14 @@ This is my working portfolio, created with bootstrap, that will be updated as I 
 
 ## Technology Stack
 
-HTML, CSS, Bootstrap
+HTML, CSS, Bootstrap, JQuery
 
 ## Usage
 
 To learn about me as a developer and see what skills I have.
 
 ## Credits
-
-www.w3schools.com 
-www.getbootstrap.com
+www.fontawesome.com 
 
 ## Contact
 * #### Name: Sammantha Sasenick (@sammiefrog)
