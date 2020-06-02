@@ -114,16 +114,31 @@ $(window).on('load', function() {
       event.preventDefault();
       window.open("https://github.com/sammiefrog/theHungryMonkey");
 	});
+
+	$(".live1").on("click", function (event) {
+      event.preventDefault();
+      window.open("https://sammiefrog.github.io/theHungryMonkey/");
+    });
 	
 	$(".view3").on("click", function (event) {
       event.preventDefault();
       window.open("https://github.com/sammiefrog/eat-da-burger");
 	});
+
+	$(".live2").on("click", function (event) {
+      event.preventDefault();
+      window.open("https://burger-frogs.herokuapp.com/");
+    });
 	
 	$(".view4").on("click", function (event) {
       event.preventDefault();
       window.open("https://github.com/sammiefrog/rules");
 	});
+
+	$(".live3").on("click", function (event) {
+      event.preventDefault();
+      window.open("https://sticklersparadise.herokuapp.com/");
+    });
 	
 	$(".view5").on("click", function (event) {
       event.preventDefault();
