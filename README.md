@@ -10,7 +10,7 @@ https://sammiefrog.github.io/
 
 ## Description
 
-This is my working portfolio, created with bootstrap, that will be updated as I learn.
+This is my working portfolio that will be updated periodically.
 
 ## Technology Stack
 
