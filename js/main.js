@@ -150,7 +150,7 @@ $(window).on('load', function() {
       window.open("https://github.com/sammiefrog/BallotBuilder");
   });
   
-  	$(".live4").on("click", function (event) {
+  	$(".live5").on("click", function (event) {
       event.preventDefault();
       window.open("https://ballotbuilder.herokuapp.com/");
     });
